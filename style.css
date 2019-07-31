@@ -5,7 +5,7 @@ body{
   color: #fff;
   text-align: center;
   font-size: 0.8rem;
-  background: url('images/vinyl2.jpg')fixed;
+  background: url('portfolio/images/vinyl2.jpg')fixed;
   background-size: cover;
 }
 .header{
